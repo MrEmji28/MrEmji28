@@ -12,7 +12,7 @@ I'm a **Software Engineer** with 1 year of hands-on experience building scalable
 
 ## 💡 What I Do
 
-- Build full-stack web applications with Laravel & React
+- Build full-stack web applications using **Python + React** or **Laravel + React**
 - Develop hybrid mobile apps using Capacitor
 - Design responsive UI and seamless user experiences
 - Work with relational databases and RESTful APIs
