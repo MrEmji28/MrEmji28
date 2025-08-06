@@ -23,12 +23,4 @@ I'm a **Software Engineer** with 1 year of hands-on experience building scalable
 Currently exploring:
 - System Designs
 
-## 📫 Let's Connect!
-
-I'm always open to opportunities, collaborations, and cool side projects.
-
-- 💼 [LinkedIn](www.linkedin.com/in/marc-gene-crisolo-a87791250) *(replace with your actual link)*
-
----
-
 Thanks for visiting my profile! 😊
