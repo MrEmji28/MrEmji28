@@ -27,8 +27,7 @@ Currently exploring:
 
 I'm always open to opportunities, collaborations, and cool side projects.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(replace with your actual link)*
-- 📨 Email: your.email@example.com *(replace with your email)*
+- 💼 [LinkedIn](www.linkedin.com/in/marc-gene-crisolo-a87791250) *(replace with your actual link)*
 
 ---
 
