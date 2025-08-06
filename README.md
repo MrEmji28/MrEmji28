@@ -22,7 +22,7 @@ I'm a **Software Engineer** with 1 year of hands-on experience building scalable
 ## 🚀 What I'm Learning
 
 Currently exploring:
-- System Designs
+- Systems Design
 
 ## 📊 GitHub Stats
 
