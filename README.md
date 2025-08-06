@@ -27,8 +27,8 @@ Currently exploring:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrEmji28&show_icons=true&theme=radical" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrEmji28&theme=radical" width="45%" />
 </p>
 
 Thanks for visiting my profile! 😊
