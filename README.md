@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Marc Crisolo!
 
-<!--
-**MrEmji28/MrEmji28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** with 1 year of hands-on experience building scalable and user-friendly **web** and **mobile applications**. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, JavaScript, PHP, HTML, CSS
+- **Frontend**: React.js, Capacitor, Tailwind CSS
+- **Backend**: Laravel, FilamentPHP
+- **Databases**: PostgreSQL, MySQL
+- **Others**: Git, REST APIs, OOP, MVC, Agile
+
+## 💡 What I Do
+
+- Build full-stack web applications with Laravel & React
+- Develop hybrid mobile apps using Capacitor
+- Design responsive UI and seamless user experiences
+- Work with relational databases and RESTful APIs
+- Collaborate in agile teams to ship quality software
+
+## 🚀 What I'm Learning
+
+Currently exploring:
+- TypeScript & Next.js
+- Advanced Laravel Ecosystem
+- DevOps & CI/CD Basics
+
+## 📫 Let's Connect!
+
+I'm always open to opportunities, collaborations, and cool side projects.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(replace with your actual link)*
+- 📨 Email: your.email@example.com *(replace with your email)*
+
+---
+
+Thanks for visiting my profile! 😊
