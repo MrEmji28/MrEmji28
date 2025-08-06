@@ -21,9 +21,7 @@ I'm a **Software Engineer** with 1 year of hands-on experience building scalable
 ## 🚀 What I'm Learning
 
 Currently exploring:
-- TypeScript & Next.js
-- Advanced Laravel Ecosystem
-- DevOps & CI/CD Basics
+- System Designs
 
 ## 📫 Let's Connect!
 
