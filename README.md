@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Marc+Crisolo!;Software+Engineer+%7C+Full+Stack+Developer;Python+%7C+React+%7C+Laravel+%7C+Mobile+Apps" alt="Typing SVG" />
 </p>
 
-I'm a **Software Engineer** with 1 year of hands-on experience building scalable and user-friendly **web** and **mobile applications**. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+I'm a **Software Engineer** with 3 years of hands-on experience building scalable and user-friendly **web** and **mobile applications**. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 ## 🛠 Tech Stack & Tools
 
